@@ -3,6 +3,7 @@ package com.devsuperior.bds02.dto;
 import java.io.Serializable;
 import java.time.LocalDate;
 
+import com.devsuperior.bds02.entities.City;
 import com.devsuperior.bds02.entities.Event;
 
 public class EventDTO implements Serializable {
