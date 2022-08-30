@@ -1,4 +1,4 @@
-# API CRUD de clientes
+# TDD Event City
 Implementação das funcionalidades necessárias para que os testes escritos utilizando o JUnit5 sejam cobertos. Exercício 
 desenvolvido durante o Bootcamp Spring React da [DevSuperior](https://devsuperior.com.br/) como requisito obrigatório para obtenção do certificado.
 
